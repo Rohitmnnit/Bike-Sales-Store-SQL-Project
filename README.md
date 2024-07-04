@@ -1,1 +1,0 @@
-# Bike-Sales-Store-SQL-Project
