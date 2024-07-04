@@ -1,6 +1,7 @@
 
 # Unveiling the Power of Data with SQL: Bike Sales Analysis
 
+### Dataset Link:- https://www.kaggle.com/datasets/dillonmyrick/bike-store-sample-database
 In this project, I used SQL to dive deep into a comprehensive dataset of bike sales, uncovering valuable insights into store performance, customer behavior, and product metrics. The analysis covers a range of aspects including store details, top customers, total revenue, staff information, brand performance, and order specifics.
 
 ## Key Insights:
